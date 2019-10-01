@@ -2,10 +2,6 @@
 
 Project is designed to quickly build presentation as a web page.
 
-To create your presentation just fork this repository.
-
-presentation example https://deepidea.github.io/web-presentation/
-
 
 **NOTES**
 
@@ -16,8 +12,3 @@ presentation example https://deepidea.github.io/web-presentation/
 - Months will be displayed as vertical navigation in a given year
 
 - Presentation pages will be displayed in chronological order
-
-- GitHub Pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
